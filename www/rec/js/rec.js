@@ -1,4 +1,7 @@
-const url = "wss://"+window.location.hostname+":"+window.location.port;
+// const url = "wss://"+window.location.hostname+":"+window.location.port;
+const url = 'wss://inward.szkingdom.vip:8000';
+console.log(url);
+
 
 let videoResolution = true;
 //Get our url

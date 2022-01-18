@@ -38,3 +38,4 @@ jspm_packages
 /nbproject/private/
 /recordings/*.mp4
 /recordings/*.pcap
+/recordings
